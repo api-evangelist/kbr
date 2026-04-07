@@ -1,7 +1,11 @@
 aid: kbr
-url: https://raw.githubusercontent.com/api-evangelist/kbr/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kbr/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.kbr.com
+description: >-
+  KBR delivers science, technology and engineering solutions to governments and companies
+  around the world.
