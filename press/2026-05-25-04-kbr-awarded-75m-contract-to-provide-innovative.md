@@ -1,7 +1,9 @@
 ---
 title: KBR Awarded $75M Contract to Provide Innovative ...
 url: https://www.kbr.com/en/insights-news/press-release/kbr-awarded-75m-contract-provide-innovative-solutions-us-department
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KBR" press release artificial intelligence'
 position: 4
 source: serpapi-google
